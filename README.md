@@ -12,7 +12,7 @@ the tests in this lab:
 - Create an `App` component from scratch
 - Use the `useEffect` hook in the `App` component. Inside the callback for
   `useEffect`, send a `fetch` request to
-  `https://dog.ceo/api/breeds/image/random`, a free API that returns a random
+  `https://dog.ceo/api/breeds/random/image/`, a free API that returns a random
   image of a dog.
 - Display a `<p>` tag with the text of "Loading..." when the component is first
   rendered
